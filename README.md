@@ -1,0 +1,1 @@
+A list of scripts used to analyze MediaWiki data dumps. Originally used in the migration of the VOCALOID Lyrics Wiki (100,000+ pages, 1M+ revisions)
